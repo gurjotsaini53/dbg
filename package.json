@@ -54,13 +54,13 @@
     "drop-in",
     "inline"
   ],
-  "homepage": "https://github.com/gurjotsaini53/dbg#readme",
+  "homepage": "https://github.com/gurjotsaini53/lookman#readme",
   "bugs": {
-    "url": "https://github.com/gurjotsaini53/dbg/issues"
+    "url": "https://github.com/gurjotsaini53/lookman/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gurjotsaini53/dbg.git"
+    "url": "git+https://github.com/gurjotsaini53/lookman.git"
   },
   "license": "ISC",
   "author": ",",
