@@ -1,4 +1,4 @@
-# dbg
+# Lookman
 
 A lightweight, **breakpoint-free** JavaScript debugging utility. Drop `dbg()` anywhere in your code to inspect values with color-coded output, change detection, async tracking, and more — all from a single import.
 
@@ -8,7 +8,7 @@ A lightweight, **breakpoint-free** JavaScript debugging utility. Drop `dbg()` an
 
 ```bash
 # Copy dbg.js into your project
-cp dbg.js src/utils/dbg.js
+cp lookman.js src/utils/lookman.js
 ```
 
 No npm package required. Just import and go.
@@ -18,7 +18,7 @@ No npm package required. Just import and go.
 ## Quick Start
 
 ```js
-import { dbg } from './dbg.js';
+import { dbg } from './lookman.js';
 
 const user = { name: 'Alice', age: 30 };
 dbg(user, 'user');
